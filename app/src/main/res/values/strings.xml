@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="strBtn1">버튼입니당</string>
+    <string name="callbtn">전화걸기</string>
+    <string name="photobtn">갤러리 열기</string>
+    <string name="finishbtn">종료</string>
+</resources>
